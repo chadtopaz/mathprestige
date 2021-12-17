@@ -1,0 +1,182 @@
+"institution","score","rank"
+"Princeton University",5,1
+"Harvard University",4.9,2
+"Massachusetts Institute of Technology",4.9,2
+"Stanford University",4.9,2
+"University of California Berkeley",4.9,2
+"University of Chicago",4.8,6
+"Columbia University",4.7,7
+"University of California Los Angeles",4.7,7
+"California Institute of Technology",4.6,9
+"New York University",4.6,9
+"Yale University",4.6,9
+"University of Michigan Ann Arbor",4.5,12
+"Cornell University",4.4,13
+"Brown University",4.3,14
+"University of Texas Austin",4.3,14
+"Duke University",4.2,16
+"University of Pennsylvania",4.2,16
+"University of Wisconsin Madison",4.2,16
+"University of California San Diego",4.1,19
+"University of Illinois Urbana-Champaign",4.1,19
+"University of Minnesota Twin Cities",4.1,19
+"Johns Hopkins University",4,22
+"Northwestern University",4,22
+"Rutgers, The State University of New Jersey New Brunswick",4,22
+"University of Maryland College Park",4,22
+"Georgia Institute of Technology",3.9,26
+"Ohio State University",3.9,26
+"Purdue University West Lafayette",3.9,26
+"Rice University",3.9,26
+"Stony Brook University SUNY",3.9,26
+"University of Washington",3.9,26
+"Carnegie Mellon University",3.8,32
+"Pennsylvania State University University Park",3.8,32
+"Indiana University Bloomington",3.7,34
+"University of California Davis",3.7,34
+"University of North Carolina Chapel Hill",3.7,34
+"University of Utah",3.7,34
+"Washington University in St. Louis",3.7,34
+"Texas A&M University College Station",3.6,39
+"University of California Irvine",3.6,39
+"University of California Santa Barbara",3.6,39
+"University of Illinois Chicago",3.6,39
+"University of Notre Dame",3.6,39
+"CUNY Graduate School and University Center",3.5,44
+"University of Southern California",3.5,44
+"Vanderbilt University",3.5,44
+"Boston University",3.4,47
+"Brandeis University",3.4,47
+"Michigan State University",3.4,47
+"University of Arizona",3.4,47
+"University of Colorado Boulder",3.4,47
+"University of Virginia",3.4,47
+"Dartmouth College",3.3,53
+"North Carolina State University",3.3,53
+"Emory University",3.2,55
+"Northeastern University",3.2,55
+"Rensselaer Polytechnic Institute",3.2,55
+"University of Georgia",3.2,55
+"University of Massachusetts Amherst",3.2,55
+"University of Oregon",3.2,55
+"University of Pittsburgh",3.2,55
+"Arizona State University",3.1,62
+"University of Florida",3.1,62
+"University of Iowa",3.1,62
+"Virginia Tech",3.1,62
+"Iowa State University",3,66
+"Louisiana State University Baton Rouge",3,66
+"University of Kansas",3,66
+"University of Missouri",3,66
+"University of Nebraska Lincoln",3,66
+"University of California Riverside",2.9,71
+"University of California Santa Cruz",2.9,71
+"University of Connecticut",2.9,71
+"Colorado State University",2.8,74
+"Florida State University",2.8,74
+"Oregon State University",2.8,74
+"Rutgers, The State University of New Jersey Newark",2.8,74
+"Syracuse University",2.8,74
+"Temple University",2.8,74
+"Tufts University",2.8,74
+"Tulane University",2.8,74
+"University of Delaware",2.8,74
+"University of Oklahoma",2.8,74
+"University of Rochester",2.8,74
+"University of Tennessee Knoxville",2.8,74
+"Binghamton University SUNY",2.7,86
+"Brigham Young University",2.7,86
+"Claremont Graduate University",2.7,86
+"University of Houston",2.7,86
+"University of Kentucky",2.7,86
+"University of Miami",2.7,86
+"University of New Mexico",2.7,86
+"University of South Carolina",2.7,86
+"Auburn University",2.6,94
+"Case Western Reserve University",2.6,94
+"Clemson University",2.6,94
+"Drexel University",2.6,94
+"Kansas State University",2.6,94
+"Oklahoma State University",2.6,94
+"University at Buffalo SUNY",2.6,94
+"George Washington University",2.5,101
+"Lehigh University",2.5,101
+"New Jersey Institute of Technology",2.5,101
+"University at Albany SUNY",2.5,101
+"University of New Hampshire",2.5,101
+"Washington State University",2.5,101
+"Worcester Polytechnic Institute",2.5,101
+"Kent State University",2.4,108
+"Ohio University",2.4,108
+"Southern Methodist University",2.4,108
+"Texas Tech University",2.4,108
+"University of Alabama",2.4,108
+"University of Cincinnati",2.4,108
+"University of North Carolina Charlotte",2.4,108
+"University of Wisconsin Milwaukee",2.4,108
+"Wayne State University",2.4,108
+"Baylor University",2.3,117
+"Colorado School of Mines",2.3,117
+"George Mason University",2.3,117
+"New Mexico State University",2.3,117
+"University of Arkansas Fayetteville",2.3,117
+"University of Colorado Denver",2.3,117
+"University of Maryland Baltimore County",2.3,117
+"University of Texas Dallas",2.3,117
+"University of Vermont",2.3,117
+"Wesleyan University",2.3,117
+"Illinois Institute of Technology",2.2,127
+"University of Alabama Birmingham",2.2,127
+"University of Hawaii Manoa",2.2,127
+"University of Memphis",2.2,127
+"University of Mississippi",2.2,127
+"University of Rhode Island",2.2,127
+"University of Wyoming",2.2,127
+"Utah State University",2.2,127
+"West Virginia University",2.2,127
+"Georgia State University",2.1,136
+"Stevens Institute of Technology",2.1,136
+"St. Louis University",2.1,136
+"University of Central Florida",2.1,136
+"University of Louisville",2.1,136
+"University of Nevada Las Vegas",2.1,136
+"University of North Texas",2.1,136
+"University of Texas Arlington",2.1,136
+"Howard University",2,144
+"Mississippi State University",2,144
+"Montana State University",2,144
+"San Diego State University",2,144
+"University of California Merced",2,144
+"University of Montana",2,144
+"Virginia Commonwealth University",2,144
+"Air Force Institute of Technology",NA,NA
+"Bowling Green State University",NA,NA
+"Central Michigan University",NA,NA
+"Clarkson University",NA,NA
+"Delaware State University",NA,NA
+"Florida Atlantic University",NA,NA
+"Florida Institute of Technology",NA,NA
+"Louisiana Tech University",NA,NA
+"Michigan Technological University",NA,NA
+"Missouri University of Science & Technology",NA,NA
+"North Dakota State University",NA,NA
+"Northern Illinois University",NA,NA
+"Oakland University",NA,NA
+"Old Dominion University",NA,NA
+"South Dakota State University",NA,NA
+"Southern Illinois University Carbondale",NA,NA
+"University of Alabama Huntsville",NA,NA
+"University of Idaho",NA,NA
+"University of Louisiana Lafayette",NA,NA
+"University of Missouri St. Louis",NA,NA
+"University of New Orleans",NA,NA
+"University of Northern Colorado",NA,NA
+"University of Puerto Rico Rio Piedras",NA,NA
+"University of Southern Mississippi",NA,NA
+"University of South Florida",NA,NA
+"University of Texas El Paso",NA,NA
+"University of Texas Health Science Center Houston",NA,NA
+"University of Texas San Antonio",NA,NA
+"University of Toledo",NA,NA
+"Western Michigan University",NA,NA
+"Wichita State University",NA,NA
